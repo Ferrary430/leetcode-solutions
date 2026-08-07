@@ -13,3 +13,11 @@
 ## Структура репозитория
 Все решения автоматически распределяются расширением по уровням сложности и содержат код программы вместе с условием задачи:
 `[Сложность]/[Номер_Название_Задачи]/`
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Ferrary430/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+<!---LeetCode Topics End-->
